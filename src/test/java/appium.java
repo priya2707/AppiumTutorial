@@ -5,7 +5,7 @@ public class appium {
         System.out.println("Calculation starts...");
         sum = a + b;
         System.out.println(sum);
-
+        System.out.println("Hi");
     }
 
 }
